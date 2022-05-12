@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**Dr1801/Dr1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm Dr1801, a part-time developer 👨‍💻 working remotely since 2021 💻</div>  
 
-Here are some ideas to get you started:
+<br/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Dr1801" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/qangcpy" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href=buymeacoffee.com/Dr1801" target="_blank">
+<img src=https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black />
+</a>
+</div>   
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dr1801&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
