@@ -9,6 +9,8 @@
 
 
 ## Connect with me  
+
+
 <div align="center">
 <a href="https://github.com/Dr1801" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -22,7 +24,7 @@
 </div>   
 
 ## Github Stats  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dr1801&label=Profile%20views&color=0e75b6&style=flat" alt="dr1801" /> </p> 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=dr1801&label=Profile%20views&color=0e75b6&style=flat" alt="dr1801" /> </div> 
 
 <div><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dr1801" alt="dr1801" /></div>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Dr1801&show_icons=true&theme=swift&bg_color=ffffff&title_color=ff8000"></div> 
