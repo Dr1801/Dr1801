@@ -26,8 +26,8 @@
 ## Github Stats  
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=dr1801&label=Profile%20views&color=0e75b6&style=flat" alt="dr1801" /> </div> 
 
-<div><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dr1801" alt="dr1801" /></div>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Dr1801&show_icons=true&theme=swift&bg_color=ffffff&title_color=ff8000"></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dr1801&show_icons=true&theme=swift&bg_color=ffffff&title_color=ff8000"></div> 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dr1801" alt="dr1801" /></div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dr1801&show_icons=true&title_color=ff8000&bg_color=ffffff&locale=en&layout=compact" alt="dr1801" /></div>
 
