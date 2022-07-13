@@ -8,8 +8,8 @@
 <br/>  
 
 
-## Connect with me  
-
+## Contact me  
+<div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/> </div>
 
 <div align="center">
 <a href="https://github.com/Dr1801" target="_blank">
@@ -24,6 +24,7 @@
 </div>   
 
 ## Github Stats  
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=dr1801&label=Profile%20views&color=0e75b6&style=flat" alt="dr1801" /> </div> 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dr1801&show_icons=true&theme=swift&bg_color=ffffff&title_color=ff8000"></div> 
