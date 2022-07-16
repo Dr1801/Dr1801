@@ -32,7 +32,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dr1801&show_icons=true&title_color=ff8000&bg_color=ffffff&locale=en&layout=compact" alt="dr1801" /></div>
 
-# ✍️ Random Dev Quote:
+# ✍️ Dev Quote:
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal"></div>
 
 
